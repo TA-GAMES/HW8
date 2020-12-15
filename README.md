@@ -1,5 +1,7 @@
 <div dir='rtl' lang='he'>
   
+  קישור למשחק : https://talabed.itch.io/tilesmapgame
+  
   במטלה השבועית בחרתי לענות על סעיפים ד' + ה'.
   
   ## סעיף ד'
